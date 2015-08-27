@@ -1,0 +1,1 @@
+{"scripts":{"postdeploy":"bundle exec rake admin:finish"},"name":"postdeploy","description":"demonstrates a postdeploy script that downloads and loads data"}
